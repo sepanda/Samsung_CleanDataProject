@@ -43,7 +43,7 @@ The data has been written to a text file from an x64 bit Windows 7 machine using
 write.table(tidySummaryData,file="./tidySummaryData.txt",row.names=FALSE)
 
 One can view the data using the commands
-data <- read.table(./tidySummaryData.txt, header = TRUE) 
+data <- read.table("./tidySummaryData.txt", header = TRUE) 
 View(data)
 
 ## Note on tidy data
