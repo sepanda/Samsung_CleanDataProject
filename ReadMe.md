@@ -53,5 +53,6 @@ The resulting data set tidySummaryData, is a tidy data set as
 2. Each observation forms a row.
 
 This is based on the definition of tidy data according to Hadley Wickham which can be grabbed at
+
 http://vita.had.co.nz/papers/tidy-data.pdf
 

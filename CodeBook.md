@@ -12,17 +12,16 @@ The variables for this data set have been processed from
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-==================================================================
-Human Activity Recognition Using Smartphones Dataset
-Version 1.0
-==================================================================
-Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
-Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Università degli Studi di Genova.
-Via Opera Pia 11A, I-16145, Genoa, Italy.
-activityrecognition@smartlab.ws
-www.smartlab.ws
-==================================================================
+
+Human Activity Recognition Using Smartphones Dataset   
+Version 1.0   
+
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.   
+Smartlab - Non Linear Complex Systems Laboratory   
+DITEN - Università degli Studi di Genova.   
+Via Opera Pia 11A, I-16145, Genoa, Italy.   
+activityrecognition@smartlab.ws   
+www.smartlab.ws   
 
 The data from the above study will be referred to as the "Original data".
 
@@ -91,72 +90,72 @@ represents:     The type of activity being monitored.
 [Column 3-68]:
                                 
 Var Names:                
-Mean_of_tBodyAcc_mean_X
-Mean_of_tBodyAcc_mean_Y
-Mean_of_tBodyAcc_mean_Z
-Mean_of_tBodyAcc_std_X
-Mean_of_tBodyAcc_std_Y
-Mean_of_tBodyAcc_std_Z
-Mean_of_tGravityAcc_mean_X
-Mean_of_tGravityAcc_mean_Y
-Mean_of_tGravityAcc_mean_Z
-Mean_of_tGravityAcc_std_X
-Mean_of_tGravityAcc_std_Y
-Mean_of_tGravityAcc_std_Z
-Mean_of_tBodyAccJerk_mean_X
-Mean_of_tBodyAccJerk_mean_Y
-Mean_of_tBodyAccJerk_mean_Z
-Mean_of_tBodyAccJerk_std_X
-Mean_of_tBodyAccJerk_std_Y
-Mean_of_tBodyAccJerk_std_Z
-Mean_of_tBodyGyro_mean_X
-Mean_of_tBodyGyro_mean_Y
-Mean_of_tBodyGyro_mean_Z
-Mean_of_tBodyGyro_std_X
-Mean_of_tBodyGyro_std_Y
-Mean_of_tBodyGyro_std_Z
-Mean_of_tBodyGyroJerk_mean_X
-Mean_of_tBodyGyroJerk_mean_Y
-Mean_of_tBodyGyroJerk_mean_Z
-Mean_of_tBodyGyroJerk_std_X
-Mean_of_tBodyGyroJerk_std_Y
-Mean_of_tBodyGyroJerk_std_Z
-Mean_of_tBodyAccMag_mean
-Mean_of_tBodyAccMag_std
-Mean_of_tGravityAccMag_mean
-Mean_of_tGravityAccMag_std
-Mean_of_tBodyAccJerkMag_mean
-Mean_of_tBodyAccJerkMag_std
-Mean_of_tBodyGyroMag_mean
-Mean_of_tBodyGyroMag_std
-Mean_of_tBodyGyroJerkMag_mean
-Mean_of_tBodyGyroJerkMag_std
-Mean_of_fBodyAcc_mean_X
-Mean_of_fBodyAcc_mean_Y
-Mean_of_fBodyAcc_mean_Z
-Mean_of_fBodyAcc_std_X
-Mean_of_fBodyAcc_std_Y
-Mean_of_fBodyAcc_std_Z
-Mean_of_fBodyAccJerk_mean_X
-Mean_of_fBodyAccJerk_mean_Y
-Mean_of_fBodyAccJerk_mean_Z
-Mean_of_fBodyAccJerk_std_X
-Mean_of_fBodyAccJerk_std_Y
-Mean_of_fBodyAccJerk_std_Z
-Mean_of_fBodyGyro_mean_X
-Mean_of_fBodyGyro_mean_Y
-Mean_of_fBodyGyro_mean_Z
-Mean_of_fBodyGyro_std_X
-Mean_of_fBodyGyro_std_Y
-Mean_of_fBodyGyro_std_Z
-Mean_of_fBodyAccMag_mean
-Mean_of_fBodyAccMag_std
-Mean_of_fBodyAccJerkMag_mean
-Mean_of_fBodyAccJerkMag_std
-Mean_of_fBodyGyroMag_mean
-Mean_of_fBodyGyroMag_std
-Mean_of_fBodyGyroJerkMag_mean
-Mean_of_fBodyGyroJerkMag_std
+Mean_of_tBodyAcc_mean_X  
+Mean_of_tBodyAcc_mean_Y  
+Mean_of_tBodyAcc_mean_Z  
+Mean_of_tBodyAcc_std_X  
+Mean_of_tBodyAcc_std_Y  
+Mean_of_tBodyAcc_std_Z  
+Mean_of_tGravityAcc_mean_X  
+Mean_of_tGravityAcc_mean_Y  
+Mean_of_tGravityAcc_mean_Z  
+Mean_of_tGravityAcc_std_X  
+Mean_of_tGravityAcc_std_Y  
+Mean_of_tGravityAcc_std_Z  
+Mean_of_tBodyAccJerk_mean_X  
+Mean_of_tBodyAccJerk_mean_Y  
+Mean_of_tBodyAccJerk_mean_Z  
+Mean_of_tBodyAccJerk_std_X  
+Mean_of_tBodyAccJerk_std_Y  
+Mean_of_tBodyAccJerk_std_Z  
+Mean_of_tBodyGyro_mean_X  
+Mean_of_tBodyGyro_mean_Y  
+Mean_of_tBodyGyro_mean_Z  
+Mean_of_tBodyGyro_std_X  
+Mean_of_tBodyGyro_std_Y  
+Mean_of_tBodyGyro_std_Z  
+Mean_of_tBodyGyroJerk_mean_X  
+Mean_of_tBodyGyroJerk_mean_Y  
+Mean_of_tBodyGyroJerk_mean_Z  
+Mean_of_tBodyGyroJerk_std_X  
+Mean_of_tBodyGyroJerk_std_Y  
+Mean_of_tBodyGyroJerk_std_Z  
+Mean_of_tBodyAccMag_mean  
+Mean_of_tBodyAccMag_std  
+Mean_of_tGravityAccMag_mean  
+Mean_of_tGravityAccMag_std  
+Mean_of_tBodyAccJerkMag_mean  
+Mean_of_tBodyAccJerkMag_std  
+Mean_of_tBodyGyroMag_mean  
+Mean_of_tBodyGyroMag_std  
+Mean_of_tBodyGyroJerkMag_mean  
+Mean_of_tBodyGyroJerkMag_std  
+Mean_of_fBodyAcc_mean_X  
+Mean_of_fBodyAcc_mean_Y  
+Mean_of_fBodyAcc_mean_Z  
+Mean_of_fBodyAcc_std_X  
+Mean_of_fBodyAcc_std_Y  
+Mean_of_fBodyAcc_std_Z  
+Mean_of_fBodyAccJerk_mean_X  
+Mean_of_fBodyAccJerk_mean_Y  
+Mean_of_fBodyAccJerk_mean_Z  
+Mean_of_fBodyAccJerk_std_X  
+Mean_of_fBodyAccJerk_std_Y  
+Mean_of_fBodyAccJerk_std_Z  
+Mean_of_fBodyGyro_mean_X  
+Mean_of_fBodyGyro_mean_Y  
+Mean_of_fBodyGyro_mean_Z   
+Mean_of_fBodyGyro_std_X  
+Mean_of_fBodyGyro_std_Y   
+Mean_of_fBodyGyro_std_Z   
+Mean_of_fBodyAccMag_mean  
+Mean_of_fBodyAccMag_std  
+Mean_of_fBodyAccJerkMag_mean  
+Mean_of_fBodyAccJerkMag_std  
+Mean_of_fBodyGyroMag_mean  
+Mean_of_fBodyGyroMag_std  
+Mean_of_fBodyGyroJerkMag_mean  
+Mean_of_fBodyGyroJerkMag_std  
 
 
 Data Type:      Double
