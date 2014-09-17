@@ -4,15 +4,14 @@ output: html_document
 ---
 
 ## The data for this script
-The data that this script proccesses can be found 
+This script processes data found at
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-The script runs upon the data contained within the archive linked to above.
-
 
 ## Where to put this script
-The script run_analysis.R should be contained in folder which contains the "USI HAR Dataset" folder.
+The script run_analysis.R should be contained in the folder which contains the "USI HAR Dataset" folder.
+That is run_analysis.R and /USI HAR Dataset/ should be in the same folder.
 
 
 ## What does this script do?
